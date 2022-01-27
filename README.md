@@ -4,7 +4,7 @@ I'm Tyler. I lead a team working on a soft real-time Elixir and Elm SaaS app.
 
 Here are some of the open source contributions I'm most proud of:
 
-- [`Enum.slide/3`](https://github.com/elixir-lang/elixir/pull/11349) going into Elixir 1.13
+- [`Enum.slide/3`](https://github.com/elixir-lang/elixir/pull/11349) in Elixir 1.13
 - [genserver_architecture](https://github.com/s3cur3/genserver_architecture), the code that accompanied my [ElixirConf 2021 talk](https://www.youtube.com/watch?v=EZFLPG7V7RM)
 - [elixir-raknet](https://github.com/X-Plane/elixir-raknet), the core of [the Elixir-based massive multiplayer server I built for X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
 - [elixir-starting-point](https://github.com/s3cur3/elixir-starting-point), the distillation of a lot of experience running Elixir in GitHub Actions CI
