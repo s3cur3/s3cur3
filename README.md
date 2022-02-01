@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tyler. I lead a team working on a soft real-time Elixir and Elm SaaS app.
+I'm Tyler. I like Elixir, functional programming, distributed systems, and soft-real time systems.
 
 Here are some of the open source contributions I'm most proud of:
 
