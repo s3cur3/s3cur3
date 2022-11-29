@@ -12,7 +12,7 @@ Here are some of the open source contributions I'm most proud of:
 - [Unbound](https://github.com/s3cur3/unbound-app), a Mac photo browser I took over at the start of the pandemic.
 
 
-You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="me" href="https://fosstodon.org/@tylerayoung">on Mastodon</a>.
+You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollow me" href="https://fosstodon.org/@tylerayoung">on Mastodon</a>.
  
 <!--
 **s3cur3/s3cur3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
