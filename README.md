@@ -11,6 +11,9 @@ Here are some of the open source contributions I'm most proud of:
 - [Fix for a memory leak](https://github.com/duckduckgo/iOS/pull/833) in the Bloom filter used in DuckDuckGo's iOS app (proof that I know what a pointer is 😉)
 - [Unbound](https://github.com/s3cur3/unbound-app), a Mac photo browser I took over at the start of the pandemic.
 
+
+I'm on Twitter as [@TylerAYoung](https://twitter.com/TylerAYoung) or on Mastadon as <a rel="me" href="https://fosstodon.org/@tylerayoung">@tylerayoung@fosstodon.org</a>.
+ 
 <!--
 **s3cur3/s3cur3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
