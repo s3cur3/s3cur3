@@ -5,12 +5,18 @@ I'm Tyler. I like Elixir, functional programming, distributed systems, and soft-
 Here are some of the open source contributions I'm most proud of:
 
 - [`Enum.slide/3`](https://github.com/elixir-lang/elixir/pull/11349) in Elixir 1.13
+- [PR to double the performance of simplifying large geometries](https://github.com/pkinney/simplify_ex/pull/4) in simplify_ex
 - [genserver_architecture](https://github.com/s3cur3/genserver_architecture), the code that accompanied my [ElixirConf 2021 talk](https://www.youtube.com/watch?v=EZFLPG7V7RM)
 - [elixir-raknet](https://github.com/X-Plane/elixir-raknet), the core of [the Elixir-based massive multiplayer server I built for X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
 - [ultimate-elixir-ci](https://github.com/felt/ultimate-elixir-ci), the distillation of a lot of experience running Elixir in GitHub Actions CI
-- [Fix for a memory leak](https://github.com/duckduckgo/iOS/pull/833) in the Bloom filter used in DuckDuckGo's iOS app (proof that I know what a pointer is 😉)
 - [Unbound](https://github.com/s3cur3/unbound-app), a Mac photo browser I took over at the start of the pandemic.
 
+Other miscellaneous open source PRs I've contributed:
+
+- [Fix for a memory leak](https://github.com/duckduckgo/iOS/pull/833) in the Bloom filter used in DuckDuckGo's iOS app (proof that I know what a pointer is 😉)
+- gpx_ex [1](https://github.com/velomapa/gpx_ex/pull/3), [2](https://github.com/velomapa/gpx_ex/pull/4)
+- [domainatrex](https://github.com/Zensavona/domainatrex/pull/15)
+- [geoip](https://github.com/navinpeiris/geoip/pull/34)
 
 You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollow me" href="https://fosstodon.org/@tylerayoung">on Mastodon</a>.
 
