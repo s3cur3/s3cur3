@@ -13,7 +13,17 @@ Here are some of the open source contributions I'm most proud of:
 
 
 You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollow me" href="https://fosstodon.org/@tylerayoung">on Mastodon</a>.
- 
+
+## Conference Talks I've given
+
+### ElixirConf 2022: Delightful Multiplayer Editing with Phoenix
+
+<a href="https://www.youtube.com/watch?v=lGuqvApTvbc"><img width="600" alt="Delightful Multiplayer Editing with Phoenix" src="https://user-images.githubusercontent.com/803680/216614763-335345cf-f6ca-41f5-a7c7-73dae6421996.png"></a>
+
+### ElixirConf 2021: Architecting GenServers for Testability
+
+<a href="https://www.youtube.com/watch?v=EZFLPG7V7RM"><img width="600" alt="Architecting GenServers for Testability" src="https://user-images.githubusercontent.com/803680/216615151-9ce35507-66be-4a0e-9815-2583772fac96.png"></a>
+
 <!--
 **s3cur3/s3cur3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
