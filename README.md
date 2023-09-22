@@ -2,6 +2,12 @@
 
 I'm Tyler. I like Elixir, functional programming, distributed systems, and soft-real time systems.
 
+I'm the creator of [CBTea](https://github.com/s3cur3/cbtea), a tiny, privacy-focused cognitive behavioral therapy app.
+
+I blog occasionally at [tylerayoung.com](https://tylerayoung.com).
+
+As part of my work at Felt, I maintain the [geo](https://github.com/felt/geo) and [geo_postgis](https://github.com/felt/geo_postgis) Elixir libraries.
+
 Here are some of the open source contributions I'm most proud of:
 
 - [`Enum.slide/3`](https://github.com/elixir-lang/elixir/pull/11349) in Elixir 1.13
@@ -33,6 +39,10 @@ You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollo
 - [Elixir-Lang.org case study: Boostrapping a multiplayer server with Elixir at X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
 
 ## Conference Talks I've given
+
+### ElixirConf 2023: Rebuilding the Plane While It's Still Flying, or: Large-Scale, Zero-Downtime Migrations Without Fear
+
+(Video coming soon)
 
 ### [ElixirConf 2022: Delightful Multiplayer Editing with Phoenix](https://www.youtube.com/watch?v=lGuqvApTvbc)
 
