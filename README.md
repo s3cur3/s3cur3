@@ -19,8 +19,8 @@ Here are some of the open source contributions I'm most proud of:
 
 Other miscellaneous open source PRs I've contributed:
 
+- Phoenix LiveView [1](https://github.com/phoenixframework/phoenix_live_view/pull/2865), [2](https://github.com/phoenixframework/phoenix_live_view/pull/2655)
 - [Fix for a memory leak](https://github.com/duckduckgo/iOS/pull/833) in the Bloom filter used in DuckDuckGo's iOS app (proof that I know what a pointer is 😉)
-- [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view/pull/2655)
 - gpx_ex [1](https://github.com/velomapa/gpx_ex/pull/3), [2](https://github.com/velomapa/gpx_ex/pull/4)
 - [domainatrex](https://github.com/Zensavona/domainatrex/pull/15)
 - [geoip](https://github.com/navinpeiris/geoip/pull/34)
