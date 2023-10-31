@@ -42,7 +42,7 @@ You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollo
 
 ### ElixirConf 2023: Rebuilding the Plane While It's Still Flying, or: Large-Scale, Zero-Downtime Migrations Without Fear
 
-(Video coming soon)
+<a href="https://www.youtube.com/watch?v=PxlTaccSI70"><img width="600" alt="Rebuilding the Plane While It's Still Flying" src="https://github.com/s3cur3/s3cur3/assets/803680/ef2fd1fd-bd6f-4ce8-b492-2334dcda65ff"></a>
 
 ### [ElixirConf 2022: Delightful Multiplayer Editing with Phoenix](https://www.youtube.com/watch?v=lGuqvApTvbc)
 
