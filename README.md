@@ -2,9 +2,9 @@
 
 I'm Tyler. I like Elixir, functional programming, distributed systems, and soft-real time systems.
 
-I'm the creator of [CBTea](https://github.com/s3cur3/cbtea), a tiny, privacy-focused cognitive behavioral therapy app.
+I'm building a new take on website monitoring called [SleepEasy](https://www.sleepeasy.app). I blog about the behind-the-scenes stuff (tech choices, marketing, customer development, and more) at [tylerayoung.com](https://tylerayoung.com).
 
-I blog occasionally at [tylerayoung.com](https://tylerayoung.com).
+In the past, I created [CBTea](https://github.com/s3cur3/cbtea), a tiny, privacy-focused cognitive behavioral therapy app.
 
 As part of my work at Felt, I maintain the [geo](https://github.com/felt/geo) and [geo_postgis](https://github.com/felt/geo_postgis) Elixir libraries.
 
