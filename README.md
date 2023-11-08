@@ -54,6 +54,8 @@ You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollo
 
 ### [Dever Elixir Meetup: Fantastic Hacks and Where to Find Them](https://www.youtube.com/watch?v=cdL8hYueAZA)
 
+An attendee described this talk as “juggling chainsaws for fun.” It’s about a bunch of very nerdy CPU performance hacks available on the BEAM (the Erlang & Elixir virtual machine). Not many of which are recommended for normal use, but many find one or two use cases across a big enough codebase.
+
 <a href="https://www.youtube.com/watch?v=cdL8hYueAZA"><img width="600" alt="Fantastic Hacks and Where to Find Them" src="https://github.com/s3cur3/s3cur3/assets/803680/6118185b-6271-4a81-9c81-c31a294337c9"></a>
 
 
