@@ -21,15 +21,18 @@ Other miscellaneous open source PRs I've contributed:
 
 - Phoenix LiveView [1](https://github.com/phoenixframework/phoenix_live_view/pull/2865), [2](https://github.com/phoenixframework/phoenix_live_view/pull/2655)
 - [Fix for a memory leak](https://github.com/duckduckgo/iOS/pull/833) in the Bloom filter used in DuckDuckGo's iOS app (proof that I know what a pointer is 😉)
+- [whois.ex](https://github.com/utkarshkukreti/whois.ex/pull/10)
 - gpx_ex [1](https://github.com/velomapa/gpx_ex/pull/3), [2](https://github.com/velomapa/gpx_ex/pull/4)
 - [domainatrex](https://github.com/Zensavona/domainatrex/pull/15)
 - [geoip](https://github.com/navinpeiris/geoip/pull/34)
 - [geo](https://github.com/bryanjos/geo/pull/176)
+- [open-api-generator](https://github.com/aj-foster/open-api-generator)
 
 You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollow me" href="https://fosstodon.org/@tylerayoung">on Mastodon</a>.
 
 ## Podcasts I've been a guest on
 
+- [Escape Velocity: Sleeping Easy with Tyler Young](https://escapevelocity.transistor.fm/episodes/sleeping-easy-with-tyler-young)
 - [Elixir Outlaws Episode 127: Kansas City, Here We Come](https://elixiroutlaws.com/127)
 - [Elixir Wizards: Geo Mapping at Felt](https://smartlogic.io/podcast/elixir-wizards/s9e3-tyleryoung-felt/)
 - [Thinking Elixir Episode 35: X-Plane's Elixir MMO](https://podcast.thinkingelixir.com/35)
