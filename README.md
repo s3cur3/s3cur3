@@ -32,6 +32,7 @@ You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollo
 
 ## Podcasts I've been a guest on
 
+- [Thinking Elixir Episode 199: Websockets' Late Hero and Elixir's Fresh Updates](https://podcast.thinkingelixir.com/199)
 - [Thinking Elixir Episode 191: Operational Elixir: What's Supporting the Apps at Felt.com and SleepEasy.app?](https://podcast.thinkingelixir.com/191)
 - [Escape Velocity: Sleeping Easy with Tyler Young](https://escapevelocity.transistor.fm/episodes/sleeping-easy-with-tyler-young)
 - [Elixir Outlaws Episode 127: Kansas City, Here We Come](https://elixiroutlaws.com/127)
