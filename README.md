@@ -45,6 +45,11 @@ You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollo
 
 ## Conference Talks I’ve given
 
+### ElixirConf 2024 Lightning Talk: Don't Say the M Word
+
+[<img width="600" alt="image" src="https://github.com/user-attachments/assets/7e66d210-7375-41ca-a13f-05fda851d8e5">](https://www.youtube.com/watch?v=QJCWzN1Vahs?t=13m30s)
+
+
 ### CodeBEAM America 2024 “Taster”: Elixir as a One-Person Stack for Building a Software Startup
 
 [<img width="600" alt="Elixir as a One-Person Stack for Building a Software Startup" src="https://github.com/s3cur3/s3cur3/assets/803680/b1aa5eb2-2d3d-4b53-b6f5-bbe676d5e6c1">](https://www.youtube.com/watch?v=s8o0REIbsB4&t=30m15s)
