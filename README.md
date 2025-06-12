@@ -47,7 +47,7 @@ You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollo
 
 ### ElixirConf 2024: More Testing, Fewer Tests
 
-[<img width="600" alt="YouTube link" src="https://github.com/user-attachments/assets/34c4e30c-2d0e-401a-b24b-955d7464ce96" />](https://www.youtube.com/watch?v=24q8WNgYrJE)
+[<img width="600" alt="YouTube link" src="https://github.com/user-attachments/assets/a2b02ce2-d753-4d55-a838-534e0983ba2b" />](https://www.youtube.com/watch?v=24q8WNgYrJE)
 
 ### ElixirConf 2024 Lightning Talk: Don't Say the M Word
 
