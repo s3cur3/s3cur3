@@ -45,6 +45,11 @@ You can find me [on Twitter](https://twitter.com/TylerAYoung) or <a rel="nofollo
 
 ## Conference Talks I’ve given
 
+### ElixirConf 2025: Cat and Mouse: Challenges in Adversarial Web Scraping
+
+[<img width="600" alt="YouTube link" src="https://github.com/user-attachments/assets/49895007-8e08-42d9-8e66-96298e4e0f52" />
+](https://www.youtube.com/watch?v=8mumTeuiZ6o)
+
 ### ElixirConf 2024: More Testing, Fewer Tests
 
 [<img width="600" alt="YouTube link" src="https://github.com/user-attachments/assets/a2b02ce2-d753-4d55-a838-534e0983ba2b" />](https://www.youtube.com/watch?v=24q8WNgYrJE)
